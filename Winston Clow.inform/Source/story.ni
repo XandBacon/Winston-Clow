@@ -34,7 +34,9 @@ Production Line 46 is a room. Production Line 46 is south of the foyer. Convayer
 
 Your Manager's Office is a room. Your Manager's Office is west of the foyer. "[if unvisited]Dialouge confirming the distopian way of life lived by all characters. During humorous discussion, he mentions that someone has been breaking components meant for production line 46. He volunteers you to figure out why. Because he can.[else]He asks if you've found the perpetratour. In response to your answer he throws things at you until the door shuts behind you." Mr Meseeks is a man in the Office.
 
-Supply Room is a room. Supply Room is east of Production Line 46. Shelves are in supply room.
+Supply Room is a room. Supply Room is east of Production Line 46. Shelves are containers in supply room. Instead of taking shelves: say "Shelves."
+ Boxes are containers in shelves.
+Wrist watch is in supply room.
 
 First floor stairs is a room. Stairs is east of foyer.
 
